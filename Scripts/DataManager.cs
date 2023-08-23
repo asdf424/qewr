@@ -34,8 +34,8 @@ public class DataManager : MonoBehaviour
                 boxLevel = 0;
                 strengthLevel = 0;
                 fish = 0;
-                gold = 32200000;
-                pearl = 3600;
+                gold = 0;
+                pearl = 0;
                 masterAudioValue = 0.5f;
                 bgmValue = 0.5f;
                 sfxValue = 0.5f;
